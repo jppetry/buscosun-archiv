@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "kind": "punktarchiv/index",
+  "updatedAt": "2026-09-14T20:56:53.360Z",
+  "days": [
+    {
+      "day": "2026-09-14",
+      "slots": 1,
+      "bytes": 10579767,
+      "conflicts": 0,
+      "first": "2026-09-14T20:46:00.000Z",
+      "last": "2026-09-14T20:46:00.000Z"
+    }
+  ]
+}

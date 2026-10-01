@@ -1,8 +1,8 @@
 {
-  "schema": 3,
+  "schema": 4,
   "kind": "punktarchiv/day",
   "day": "2026-09-24",
-  "updatedAt": "2026-09-30T23:32:30.815Z",
+  "updatedAt": "2026-10-01T23:31:21.111Z",
   "slots": [
     {
       "file": "2321.json.gz",

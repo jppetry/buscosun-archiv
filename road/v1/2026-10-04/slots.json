@@ -1,0 +1,91 @@
+{
+ "schema": 1,
+ "product": "road-archive-slots",
+ "day": "2026-10-04",
+ "slots": {
+  "2610040000": {
+   "slot": "2610040000",
+   "publish": true,
+   "points": 1553,
+   "values": 11522,
+   "rejected": 178,
+   "share": 0.0154,
+   "groups": 23,
+   "dwdLastAt": "2026-10-04T00:03:05.000Z",
+   "derivedAt": "2026-10-04T00:03:40.118Z",
+   "deriveMs": 549
+  },
+  "2610040015": {
+   "slot": "2610040015",
+   "publish": true,
+   "points": 1549,
+   "values": 11476,
+   "rejected": 177,
+   "share": 0.0154,
+   "groups": 23,
+   "dwdLastAt": "2026-10-04T00:18:04.000Z",
+   "derivedAt": "2026-10-04T00:18:29.911Z",
+   "deriveMs": 544
+  },
+  "2610040030": {
+   "slot": "2610040030",
+   "publish": true,
+   "points": 1555,
+   "values": 11525,
+   "rejected": 179,
+   "share": 0.0155,
+   "groups": 23,
+   "dwdLastAt": "2026-10-04T00:33:06.000Z",
+   "derivedAt": "2026-10-04T00:33:08.682Z",
+   "deriveMs": 510
+  },
+  "2610040045": {
+   "slot": "2610040045",
+   "publish": true,
+   "points": 1555,
+   "values": 11508,
+   "rejected": 178,
+   "share": 0.0155,
+   "groups": 23,
+   "dwdLastAt": "2026-10-04T00:48:08.000Z",
+   "derivedAt": "2026-10-04T00:48:40.935Z",
+   "deriveMs": 494
+  },
+  "2610040100": {
+   "slot": "2610040100",
+   "publish": true,
+   "points": 1555,
+   "values": 11522,
+   "rejected": 172,
+   "share": 0.0149,
+   "groups": 23,
+   "dwdLastAt": "2026-10-04T01:03:07.000Z",
+   "derivedAt": "2026-10-04T01:03:25.784Z",
+   "deriveMs": 491
+  },
+  "2610040115": {
+   "slot": "2610040115",
+   "publish": true,
+   "points": 1554,
+   "values": 11513,
+   "rejected": 172,
+   "share": 0.0149,
+   "groups": 23,
+   "dwdLastAt": "2026-10-04T01:18:04.000Z",
+   "derivedAt": "2026-10-04T01:18:31.932Z",
+   "deriveMs": 505
+  },
+  "2610040130": {
+   "slot": "2610040130",
+   "publish": true,
+   "points": 1553,
+   "values": 11501,
+   "rejected": 175,
+   "share": 0.0152,
+   "groups": 23,
+   "dwdLastAt": "2026-10-04T01:33:07.000Z",
+   "derivedAt": "2026-10-04T01:33:12.053Z",
+   "deriveMs": 495
+  }
+ }
+}

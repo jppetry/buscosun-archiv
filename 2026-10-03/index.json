@@ -1,0 +1,20 @@
+{
+  "schema": 4,
+  "kind": "punktarchiv/day",
+  "day": "2026-10-03",
+  "updatedAt": "2026-10-04T21:24:48.189Z",
+  "slots": [],
+  "supplements": [
+    {
+      "file": "truth-smn.json.gz",
+      "bytes": 35302,
+      "sha256": "0a10293b120c75c1b2954c49b39875b59c87651824e8cc38c4780227ccef8958",
+      "kind": "punktarchiv/truth-supplement",
+      "network": "smn",
+      "supplements": "2026-10-04/0001.json.gz",
+      "points": 102,
+      "createdAt": "2026-10-04T21:23:33.575Z",
+      "codeHash": "e551c6c-dirty"
+    }
+  ]
+}

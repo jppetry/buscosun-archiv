@@ -1,13 +1,18 @@
 {
  "schema": 1,
  "product": "road-fc-archive-index",
- "updatedAt": "2026-10-04T11:07:13.492Z",
+ "updatedAt": "2026-10-04T14:21:20.180Z",
  "days": {
   "2026-10-04": {
    "2610041104": {
     "stations": 1658,
     "bytes": 265729,
     "issuedAt": "2026-10-04T11:04:44.443Z"
+   },
+   "2610041344": {
+    "stations": 1658,
+    "bytes": 266604,
+    "issuedAt": "2026-10-04T13:44:11.606Z"
    }
   }
  }

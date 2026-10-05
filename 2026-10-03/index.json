@@ -2,6 +2,31 @@
   "schema": 4,
   "kind": "punktarchiv/day",
   "day": "2026-10-03",
-  "updatedAt": "2026-10-04T23:33:20.963Z",
-  "slots": []
+  "updatedAt": "2026-10-05T15:28:56.432Z",
+  "slots": [
+    {
+      "file": "2401.json.gz",
+      "bytes": 13072676,
+      "sha256": "4723692c4605aa942b73ab3a002905b094e18e8e53b0b3736c69e1d1c7c15bf3",
+      "conflict": false,
+      "slotAt": "2026-10-04T00:01:00.000Z",
+      "points": 405,
+      "createdAt": "2026-10-04T00:01:36.144Z",
+      "codeHash": "07207b0",
+      "indexCommit": "c68872e93540ddb60a81676cef706506a64fac8f"
+    }
+  ],
+  "supplements": [
+    {
+      "file": "truth-smn.json.gz",
+      "bytes": 35302,
+      "sha256": "0a10293b120c75c1b2954c49b39875b59c87651824e8cc38c4780227ccef8958",
+      "kind": "punktarchiv/truth-supplement",
+      "network": "smn",
+      "supplements": "2026-10-04/0001.json.gz",
+      "points": 102,
+      "createdAt": "2026-10-04T21:23:33.575Z",
+      "codeHash": "e551c6c-dirty"
+    }
+  ]
 }

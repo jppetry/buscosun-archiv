@@ -1,7 +1,7 @@
 {
   "schema": 4,
   "kind": "punktarchiv/index",
-  "updatedAt": "2026-10-04T23:32:59.112Z",
+  "updatedAt": "2026-10-05T15:28:07.164Z",
   "days": [
     {
       "day": "2026-09-14",
@@ -157,18 +157,19 @@
     },
     {
       "day": "2026-10-03",
-      "slots": 0,
-      "bytes": 0,
+      "slots": 1,
+      "bytes": 13072676,
       "conflicts": 0,
-      "first": null,
-      "last": null
+      "first": "2026-10-04T00:01:00.000Z",
+      "last": "2026-10-04T00:01:00.000Z",
+      "supplements": 1
     },
     {
       "day": "2026-10-04",
-      "slots": 2,
-      "bytes": 26229273,
+      "slots": 1,
+      "bytes": 13156597,
       "conflicts": 0,
-      "first": "2026-10-04T00:01:00.000Z",
+      "first": "2026-10-04T23:22:00.000Z",
       "last": "2026-10-04T23:22:00.000Z"
     }
   ]

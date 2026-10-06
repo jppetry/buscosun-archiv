@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "product": "road-fc-static",
+ "files": {
+  "static/points.json": {
+   "sha256": "04c67ec37f207ae911819c467973aa2d2e205256acc698edc3b42d72ed1c0710",
+   "bytes": 466269
+  },
+  "static/geo.json": {
+   "sha256": "1ad2e9c743e64c1a2f91e5d48bcadac880534fe0739e12e027d6f5ee9b40bb57",
+   "bytes": 5594668
+  }
+ }
+}

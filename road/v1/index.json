@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "product": "road-archive-index",
- "updatedAt": "2026-10-06T21:33:39.381Z",
+ "updatedAt": "2026-10-07T01:13:06.242Z",
  "days": {
   "2026-10-02": {
    "halves": {
@@ -75,16 +75,28 @@
   },
   "2026-10-06": {
    "slots": {
-    "logged": 87,
-    "published": 87
+    "logged": 96,
+    "published": 96
    },
    "halves": {
+    "12": {
+     "stations": 1310,
+     "filledSlots": 48,
+     "quarantineSlots": 48,
+     "quarantineEntries": 16712
+    },
     "00": {
      "stations": 1309,
      "filledSlots": 48,
      "quarantineSlots": 48,
      "quarantineEntries": 16618
     }
+   }
+  },
+  "2026-10-07": {
+   "slots": {
+    "logged": 5,
+    "published": 5
    }
   }
  }

@@ -3,12 +3,12 @@
  "product": "road-fc-static",
  "files": {
   "static/points.json": {
-   "sha256": "556dda36a045b09782ebe800d8654cca97aa8c34fe5679cdeaad42a95d94e9fb",
-   "bytes": 486958
+   "sha256": "ad2dad05c40ebcdca4d3a521734e5c0351763786af377840837d8a4997576cf7",
+   "bytes": 508201
   },
   "static/geo.json": {
-   "sha256": "63302e71db6901dd52d02923593fc0f89b9c6902b950bbee9afdcc03b943d040",
-   "bytes": 5773703
+   "sha256": "447deba5d7a29842d9c87db76def1b1f83d4b46dd82ec16943edbabf8652ce51",
+   "bytes": 5775265
   }
  }
 }

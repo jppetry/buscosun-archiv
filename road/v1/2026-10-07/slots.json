@@ -626,6 +626,138 @@
    "dwdLastAt": "2026-10-07T12:48:12.000Z",
    "derivedAt": "2026-10-07T12:48:21.341Z",
    "deriveMs": 643
+  },
+  "2610071300": {
+   "slot": "2610071300",
+   "publish": true,
+   "points": 1549,
+   "values": 11575,
+   "rejected": 296,
+   "share": 0.0256,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T13:03:07.000Z",
+   "derivedAt": "2026-10-07T13:03:39.951Z",
+   "deriveMs": 635
+  },
+  "2610071315": {
+   "slot": "2610071315",
+   "publish": true,
+   "points": 1547,
+   "values": 11568,
+   "rejected": 306,
+   "share": 0.0265,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T13:18:09.000Z",
+   "derivedAt": "2026-10-07T13:18:31.999Z",
+   "deriveMs": 625
+  },
+  "2610071330": {
+   "slot": "2610071330",
+   "publish": true,
+   "points": 1547,
+   "values": 11594,
+   "rejected": 294,
+   "share": 0.0254,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T13:33:17.000Z",
+   "derivedAt": "2026-10-07T13:33:20.540Z",
+   "deriveMs": 635
+  },
+  "2610071345": {
+   "slot": "2610071345",
+   "publish": true,
+   "points": 1546,
+   "values": 11611,
+   "rejected": 297,
+   "share": 0.0256,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T13:48:04.000Z",
+   "derivedAt": "2026-10-07T13:48:23.909Z",
+   "deriveMs": 644
+  },
+  "2610071400": {
+   "slot": "2610071400",
+   "publish": true,
+   "points": 1546,
+   "values": 11581,
+   "rejected": 283,
+   "share": 0.0244,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T14:03:04.000Z",
+   "derivedAt": "2026-10-07T14:03:40.008Z",
+   "deriveMs": 625
+  },
+  "2610071415": {
+   "slot": "2610071415",
+   "publish": true,
+   "points": 1547,
+   "values": 11619,
+   "rejected": 293,
+   "share": 0.0252,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T14:18:03.000Z",
+   "derivedAt": "2026-10-07T14:18:28.423Z",
+   "deriveMs": 645
+  },
+  "2610071430": {
+   "slot": "2610071430",
+   "publish": true,
+   "points": 1549,
+   "values": 11611,
+   "rejected": 288,
+   "share": 0.0248,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T14:33:04.000Z",
+   "derivedAt": "2026-10-07T14:33:33.838Z",
+   "deriveMs": 642
+  },
+  "2610071445": {
+   "slot": "2610071445",
+   "publish": true,
+   "points": 1547,
+   "values": 11637,
+   "rejected": 286,
+   "share": 0.0246,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T14:48:06.000Z",
+   "derivedAt": "2026-10-07T14:48:40.591Z",
+   "deriveMs": 644
+  },
+  "2610071500": {
+   "slot": "2610071500",
+   "publish": true,
+   "points": 1549,
+   "values": 11599,
+   "rejected": 274,
+   "share": 0.0236,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T15:03:54.000Z",
+   "derivedAt": "2026-10-07T15:04:16.225Z",
+   "deriveMs": 625
+  },
+  "2610071515": {
+   "slot": "2610071515",
+   "publish": true,
+   "points": 1544,
+   "values": 11592,
+   "rejected": 263,
+   "share": 0.0227,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T15:18:07.000Z",
+   "derivedAt": "2026-10-07T15:35:04.818Z",
+   "deriveMs": 635
+  },
+  "2610071530": {
+   "slot": "2610071530",
+   "publish": true,
+   "points": 1548,
+   "values": 11595,
+   "rejected": 284,
+   "share": 0.0245,
+   "groups": 23,
+   "dwdLastAt": "2026-10-07T15:33:29.000Z",
+   "derivedAt": "2026-10-07T15:35:43.663Z",
+   "deriveMs": 662
   }
  }
 }

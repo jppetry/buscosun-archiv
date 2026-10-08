@@ -8,7 +8,7 @@
     "2026100712"
    ],
    "poiStations": 24,
-   "texts": 21
+   "texts": 24
   },
   "2026-10-05": {
    "spots": [],
@@ -19,7 +19,12 @@
    "spots": [],
    "poiStations": 24,
    "texts": 25
+  },
+  "2026-10-08": {
+   "spots": [],
+   "poiStations": 24,
+   "texts": 3
   }
  },
- "updatedAt": "2026-10-07T18:54:02.935Z"
+ "updatedAt": "2026-10-08T01:20:09.329Z"
 }

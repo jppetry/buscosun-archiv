@@ -1,0 +1,10 @@
+{
+ "schema": 1,
+ "kind": "glacier/archive-index",
+ "days": {
+  "2026-10-12": {
+   "files": 2,
+   "bytes": 11119
+  }
+ }
+}

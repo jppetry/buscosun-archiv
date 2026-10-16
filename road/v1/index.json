@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "product": "road-archive-index",
- "updatedAt": "2026-10-16T09:35:51.178Z",
+ "updatedAt": "2026-10-16T12:44:43.564Z",
  "days": {
   "2026-10-02": {
    "halves": {
@@ -275,8 +275,16 @@
   },
   "2026-10-16": {
    "slots": {
-    "logged": 39,
-    "published": 39
+    "logged": 51,
+    "published": 51
+   },
+   "halves": {
+    "00": {
+     "stations": 1354,
+     "filledSlots": 48,
+     "quarantineSlots": 48,
+     "quarantineEntries": 23939
+    }
    }
   }
  }

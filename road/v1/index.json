@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "product": "road-archive-index",
- "updatedAt": "2026-10-17T06:44:46.461Z",
+ "updatedAt": "2026-10-17T09:33:02.174Z",
  "days": {
   "2026-10-02": {
    "halves": {
@@ -295,8 +295,8 @@
   },
   "2026-10-17": {
    "slots": {
-    "logged": 27,
-    "published": 27
+    "logged": 38,
+    "published": 38
    }
   }
  }

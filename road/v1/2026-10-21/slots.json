@@ -90,6 +90,226 @@
     "bytes": 171298,
     "ms": 1885
    }
+  },
+  "2610210100": {
+   "slot": "2610210100",
+   "publish": true,
+   "points": 1498,
+   "values": 11763,
+   "rejected": 308,
+   "share": 0.0262,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T01:03:06.000Z",
+   "derivedAt": "2026-10-21T01:12:06.012Z",
+   "deriveMs": 2533,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 850,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 174119,
+    "ms": 1844
+   }
+  },
+  "2610210115": {
+   "slot": "2610210115",
+   "publish": true,
+   "points": 1497,
+   "values": 11781,
+   "rejected": 317,
+   "share": 0.0269,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T01:18:04.000Z",
+   "derivedAt": "2026-10-21T01:27:06.238Z",
+   "deriveMs": 2586,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 986,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 195788,
+    "ms": 1897
+   }
+  },
+  "2610210130": {
+   "slot": "2610210130",
+   "publish": true,
+   "points": 1499,
+   "values": 11761,
+   "rejected": 332,
+   "share": 0.0282,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T01:33:24.000Z",
+   "derivedAt": "2026-10-21T01:42:12.174Z",
+   "deriveMs": 2562,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 873,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 166582,
+    "ms": 1876
+   }
+  },
+  "2610210145": {
+   "slot": "2610210145",
+   "publish": true,
+   "points": 1497,
+   "values": 11787,
+   "rejected": 325,
+   "share": 0.0276,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T01:48:04.000Z",
+   "derivedAt": "2026-10-21T01:57:12.272Z",
+   "deriveMs": 2562,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 923,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 172064,
+    "ms": 1857
+   }
+  },
+  "2610210200": {
+   "slot": "2610210200",
+   "publish": true,
+   "points": 1499,
+   "values": 11796,
+   "rejected": 315,
+   "share": 0.0267,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T02:03:04.000Z",
+   "derivedAt": "2026-10-21T02:12:10.661Z",
+   "deriveMs": 2524,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1038,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 189459,
+    "ms": 1851
+   }
+  },
+  "2610210215": {
+   "slot": "2610210215",
+   "publish": true,
+   "points": 1494,
+   "values": 11784,
+   "rejected": 314,
+   "share": 0.0266,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T02:18:03.000Z",
+   "derivedAt": "2026-10-21T02:27:08.803Z",
+   "deriveMs": 2623,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1060,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 193464,
+    "ms": 1922
+   }
+  },
+  "2610210230": {
+   "slot": "2610210230",
+   "publish": true,
+   "points": 1499,
+   "values": 11817,
+   "rejected": 316,
+   "share": 0.0267,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T02:33:10.000Z",
+   "derivedAt": "2026-10-21T02:42:05.977Z",
+   "deriveMs": 2591,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 823,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 148261,
+    "ms": 1912
+   }
+  },
+  "2610210245": {
+   "slot": "2610210245",
+   "publish": true,
+   "points": 1498,
+   "values": 11820,
+   "rejected": 318,
+   "share": 0.0269,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T02:50:27.000Z",
+   "derivedAt": "2026-10-21T02:57:12.703Z",
+   "deriveMs": 2619,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 826,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 148536,
+    "ms": 1912
+   }
+  },
+  "2610210300": {
+   "slot": "2610210300",
+   "publish": true,
+   "points": 1501,
+   "values": 11834,
+   "rejected": 331,
+   "share": 0.028,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T03:04:39.000Z",
+   "derivedAt": "2026-10-21T03:12:06.583Z",
+   "deriveMs": 2561,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 788,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 144758,
+    "ms": 1886
+   }
+  },
+  "2610210315": {
+   "slot": "2610210315",
+   "publish": true,
+   "points": 1497,
+   "values": 11873,
+   "rejected": 320,
+   "share": 0.027,
+   "groups": 22,
+   "dwdLastAt": "2026-10-21T03:18:06.000Z",
+   "derivedAt": "2026-10-21T03:27:09.083Z",
+   "deriveMs": 2607,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 778,
+    "unknown": 4,
+    "missing": [],
+    "bytes": 145671,
+    "ms": 1917
+   }
   }
  }
 }

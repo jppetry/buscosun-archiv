@@ -241,8 +241,13 @@
     "2026102112"
    ],
    "poiStations": 24,
-   "texts": 22
+   "texts": 25
+  },
+  "2026-10-22": {
+   "spots": [],
+   "poiStations": 24,
+   "texts": 3
   }
  },
- "updatedAt": "2026-10-21T18:51:37.358Z"
+ "updatedAt": "2026-10-22T01:07:55.256Z"
 }

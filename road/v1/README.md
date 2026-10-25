@@ -11,5 +11,6 @@ aus `buscosun-web` (frisch geklont je Lauf). Ein Lauf füllt nur Lücken, er lö
 | Datei | Inhalt |
 |---|---|
 | `<Tag>/00.json.gz`, `<Tag>/12.json.gz` | Halbtag (UTC, 48 Slots à 15 min): je Station Stammdaten, Fahrbahn `rs`, Luft `ta`, Taupunkt `td` (0,1 °C; nur Werte nach den harten Regeln, sonst `null`), Klasse je Slot `k` (`i` Glätte · `f` Frostgefahr · `w` nass · `d` trocken · `u` Zustand unbekannt · `n` keine gültige Messung · `-` kein Punkt); `quarantine` = jeder verworfene und jeder „wäre verworfene" Wert des Slots mit Regel und Rohwert; `rings`/`windows` = welche Ringe beigetragen haben |
-| `<Tag>/slots.json` | Slot-Protokoll: freigegeben, Punkte, Anteil verworfen, Reihen, DWD-Ankunft, Ableitung, Sperrgrund |
-| `index.json` | Tage, Halbtage, gefüllte Slots |
+| `<Tag>/slots.json` | Slot-Protokoll: freigegeben, Punkte, Anteil verworfen, Reihen, DWD-Ankunft, Ableitung, Sperrgrund; `hz` = der Gefahren-Schritt des Slots (frei/gesperrt, Abschnitte mit Stufe, unbekannt, je Gefahr `byHazard`, fehlende Eingänge) |
+| `<Tag>/hz/<Slot>.json.gz` | ein Gefahren-Slot (`road/v1/hz/<Slot>.json` des Daten-Repos, dort nur 3 h): Kopf (Eingänge, fehlende Eingänge, Stunden) + jeder Abschnitt mit Stufe ≥ 1 in irgendeiner Stunde (`lv`/`ev`/`why` wie veröffentlicht) + `counts` (Abschnitte, mit Stufe, unbekannt, abgelegt). Einmal geschrieben, nie neu |
+| `index.json` | Tage, Halbtage, gefüllte Slots, Gefahren-Slots je Tag |

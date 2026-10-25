@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "product": "road-archive-slots",
+ "day": "2026-10-25",
+ "slots": {
+  "2610250000": {
+   "slot": "2610250000",
+   "publish": false,
+   "points": 1290,
+   "values": 9607,
+   "rejected": 251,
+   "share": 0.0261,
+   "groups": 16,
+   "dwdLastAt": "2026-10-25T00:02:12.000Z",
+   "derivedAt": "2026-10-25T00:12:00.716Z",
+   "deriveMs": 562,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "16 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250015": {
+   "slot": "2610250015",
+   "publish": false,
+   "points": 1104,
+   "values": 8619,
+   "rejected": 177,
+   "share": 0.0205,
+   "groups": 11,
+   "dwdLastAt": "2026-10-25T00:16:51.000Z",
+   "derivedAt": "2026-10-25T00:27:05.700Z",
+   "deriveMs": 536,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "11 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250030": {
+   "slot": "2610250030",
+   "publish": false,
+   "points": 973,
+   "values": 6159,
+   "rejected": 105,
+   "share": 0.017,
+   "groups": 11,
+   "dwdLastAt": "2026-10-25T00:32:22.000Z",
+   "derivedAt": "2026-10-25T00:42:02.095Z",
+   "deriveMs": 333,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "11 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250045": {
+   "slot": "2610250045",
+   "publish": false,
+   "points": 1116,
+   "values": 7624,
+   "rejected": 110,
+   "share": 0.0144,
+   "groups": 11,
+   "dwdLastAt": "2026-10-25T00:47:12.000Z",
+   "derivedAt": "2026-10-25T00:57:08.869Z",
+   "deriveMs": 350,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "11 aktive Reihen < 23 − 3"
+    }
+   ]
+  }
+ }
+}

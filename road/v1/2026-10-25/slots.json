@@ -74,6 +74,206 @@
      "detail": "11 aktive Reihen < 23 − 3"
     }
    ]
+  },
+  "2610250100": {
+   "slot": "2610250100",
+   "publish": false,
+   "points": 1240,
+   "values": 10253,
+   "rejected": 193,
+   "share": 0.0188,
+   "groups": 14,
+   "dwdLastAt": "2026-10-25T01:02:50.000Z",
+   "derivedAt": "2026-10-25T01:12:03.047Z",
+   "deriveMs": 548,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "13 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250115": {
+   "slot": "2610250115",
+   "publish": false,
+   "points": 1367,
+   "values": 10731,
+   "rejected": 195,
+   "share": 0.0182,
+   "groups": 18,
+   "dwdLastAt": "2026-10-25T01:16:58.000Z",
+   "derivedAt": "2026-10-25T01:27:02.096Z",
+   "deriveMs": 528,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "17 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250130": {
+   "slot": "2610250130",
+   "publish": false,
+   "points": 1363,
+   "values": 9502,
+   "rejected": 152,
+   "share": 0.016,
+   "groups": 18,
+   "dwdLastAt": "2026-10-25T01:32:48.000Z",
+   "derivedAt": "2026-10-25T01:42:06.363Z",
+   "deriveMs": 545,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "17 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250145": {
+   "slot": "2610250145",
+   "publish": false,
+   "points": 1364,
+   "values": 9493,
+   "rejected": 154,
+   "share": 0.0162,
+   "groups": 18,
+   "dwdLastAt": "2026-10-25T01:46:55.000Z",
+   "derivedAt": "2026-10-25T01:57:04.043Z",
+   "deriveMs": 532,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "17 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250200": {
+   "slot": "2610250200",
+   "publish": false,
+   "points": 1382,
+   "values": 10838,
+   "rejected": 207,
+   "share": 0.0191,
+   "groups": 20,
+   "dwdLastAt": "2026-10-25T02:02:49.000Z",
+   "derivedAt": "2026-10-25T02:12:09.079Z",
+   "deriveMs": 578,
+   "reasons": [
+    {
+     "rule": "slotGroups",
+     "detail": "19 aktive Reihen < 23 − 3"
+    }
+   ]
+  },
+  "2610250215": {
+   "slot": "2610250215",
+   "publish": true,
+   "points": 1217,
+   "values": 9001,
+   "rejected": 237,
+   "share": 0.0263,
+   "groups": 22,
+   "dwdLastAt": "2026-10-25T02:18:03.000Z",
+   "derivedAt": "2026-10-25T02:27:05.795Z",
+   "deriveMs": 2717,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1495,
+    "unknown": 3,
+    "missing": [],
+    "bytes": 407687,
+    "ms": 2066
+   }
+  },
+  "2610250230": {
+   "slot": "2610250230",
+   "publish": true,
+   "points": 1465,
+   "values": 11472,
+   "rejected": 266,
+   "share": 0.0232,
+   "groups": 22,
+   "dwdLastAt": "2026-10-25T02:33:03.000Z",
+   "derivedAt": "2026-10-25T02:42:15.866Z",
+   "deriveMs": 2614,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1493,
+    "unknown": 3,
+    "missing": [],
+    "bytes": 400724,
+    "ms": 1960
+   }
+  },
+  "2610250245": {
+   "slot": "2610250245",
+   "publish": true,
+   "points": 1476,
+   "values": 11674,
+   "rejected": 282,
+   "share": 0.0242,
+   "groups": 22,
+   "dwdLastAt": "2026-10-25T02:48:09.000Z",
+   "derivedAt": "2026-10-25T02:57:12.268Z",
+   "deriveMs": 2675,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1509,
+    "unknown": 3,
+    "missing": [],
+    "bytes": 409294,
+    "ms": 1988
+   }
+  },
+  "2610250300": {
+   "slot": "2610250300",
+   "publish": true,
+   "points": 1497,
+   "values": 11839,
+   "rejected": 310,
+   "share": 0.0262,
+   "groups": 22,
+   "dwdLastAt": "2026-10-25T03:03:11.000Z",
+   "derivedAt": "2026-10-25T03:12:07.040Z",
+   "deriveMs": 2592,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1507,
+    "unknown": 3,
+    "missing": [],
+    "bytes": 403517,
+    "ms": 1933
+   }
+  },
+  "2610250315": {
+   "slot": "2610250315",
+   "publish": true,
+   "points": 1497,
+   "values": 11882,
+   "rejected": 329,
+   "share": 0.0277,
+   "groups": 22,
+   "dwdLastAt": "2026-10-25T03:19:38.000Z",
+   "derivedAt": "2026-10-25T03:27:12.163Z",
+   "deriveMs": 2686,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1525,
+    "unknown": 3,
+    "missing": [],
+    "bytes": 404184,
+    "ms": 2012
+   }
   }
  }
 }

@@ -1,0 +1,211 @@
+{
+ "schema": 1,
+ "product": "road-archive-slots",
+ "day": "2026-10-26",
+ "slots": {
+  "2610260000": {
+   "slot": "2610260000",
+   "publish": true,
+   "points": 1495,
+   "values": 11567,
+   "rejected": 356,
+   "share": 0.0308,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T00:03:05.000Z",
+   "derivedAt": "2026-10-26T00:12:08.662Z",
+   "deriveMs": 1168,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 181,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 0,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 42,
+     "nebel": 0,
+     "gischt": 158,
+     "sonne": 0,
+     "quer": 22,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 62,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260000",
+     "fc": null,
+     "rv": "2610260005",
+     "rvMode": "max",
+     "konrad": "20261026T000500",
+     "runs": "2026102521",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1648778,
+    "ms": 838
+   }
+  },
+  "2610260015": {
+   "slot": "2610260015",
+   "publish": true,
+   "points": 1490,
+   "values": 11505,
+   "rejected": 348,
+   "share": 0.0302,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T00:18:04.000Z",
+   "derivedAt": "2026-10-26T00:27:03.650Z",
+   "deriveMs": 1214,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 175,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 0,
+     "nass": 2,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 27,
+     "nebel": 0,
+     "gischt": 160,
+     "sonne": 0,
+     "quer": 20,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260015",
+     "fc": null,
+     "rv": "2610260020",
+     "rvMode": "max",
+     "konrad": "20261026T002000",
+     "runs": "2026102521",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1646083,
+    "ms": 856
+   }
+  },
+  "2610260030": {
+   "slot": "2610260030",
+   "publish": true,
+   "points": 1495,
+   "values": 11538,
+   "rejected": 350,
+   "share": 0.0303,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T00:33:18.000Z",
+   "derivedAt": "2026-10-26T00:42:06.578Z",
+   "deriveMs": 1156,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 166,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 0,
+     "nass": 2,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 28,
+     "nebel": 0,
+     "gischt": 142,
+     "sonne": 0,
+     "quer": 24,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 14,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260030",
+     "fc": null,
+     "rv": "2610260035",
+     "rvMode": "max",
+     "konrad": "20261026T003500",
+     "runs": "2026102521",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1646660,
+    "ms": 827
+   }
+  },
+  "2610260045": {
+   "slot": "2610260045",
+   "publish": true,
+   "points": 1494,
+   "values": 11531,
+   "rejected": 352,
+   "share": 0.0305,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T00:48:16.000Z",
+   "derivedAt": "2026-10-26T00:57:03.482Z",
+   "deriveMs": 1890,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 164,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 0,
+     "nass": 5,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 27,
+     "nebel": 0,
+     "gischt": 131,
+     "sonne": 0,
+     "quer": 23,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 22,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260045",
+     "fc": null,
+     "rv": "2610260050",
+     "rvMode": "max",
+     "konrad": "20261026T005000",
+     "runs": "2026102521",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1646648,
+    "ms": 1382
+   }
+  }
+ }
+}

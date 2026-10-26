@@ -206,6 +206,567 @@
     "bytes": 1646648,
     "ms": 1382
    }
+  },
+  "2610260100": {
+   "slot": "2610260100",
+   "publish": true,
+   "points": 1496,
+   "values": 11560,
+   "rejected": 357,
+   "share": 0.0309,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T01:03:09.000Z",
+   "derivedAt": "2026-10-26T01:12:08.150Z",
+   "deriveMs": 1864,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 140,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 2,
+     "nass": 4,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 20,
+     "nebel": 0,
+     "gischt": 119,
+     "sonne": 0,
+     "quer": 22,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260100",
+     "fc": null,
+     "rv": "2610260105",
+     "rvMode": "max",
+     "konrad": "20261026T010500",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1645131,
+    "ms": 1359
+   }
+  },
+  "2610260115": {
+   "slot": "2610260115",
+   "publish": true,
+   "points": 1491,
+   "values": 11517,
+   "rejected": 357,
+   "share": 0.031,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T01:18:05.000Z",
+   "derivedAt": "2026-10-26T01:27:06.767Z",
+   "deriveMs": 1881,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 136,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 2,
+     "nass": 6,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 26,
+     "nebel": 0,
+     "gischt": 107,
+     "sonne": 0,
+     "quer": 28,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260115",
+     "fc": null,
+     "rv": "2610260120",
+     "rvMode": "max",
+     "konrad": "20261026T012000",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1645754,
+    "ms": 1382
+   }
+  },
+  "2610260130": {
+   "slot": "2610260130",
+   "publish": true,
+   "points": 1496,
+   "values": 11557,
+   "rejected": 364,
+   "share": 0.0315,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T01:33:10.000Z",
+   "derivedAt": "2026-10-26T01:42:07.970Z",
+   "deriveMs": 1859,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 130,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 4,
+     "nass": 6,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 21,
+     "nebel": 0,
+     "gischt": 107,
+     "sonne": 0,
+     "quer": 21,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260130",
+     "fc": null,
+     "rv": "2610260135",
+     "rvMode": "max",
+     "konrad": "20261026T013500",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1645168,
+    "ms": 1367
+   }
+  },
+  "2610260145": {
+   "slot": "2610260145",
+   "publish": true,
+   "points": 1493,
+   "values": 11547,
+   "rejected": 361,
+   "share": 0.0313,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T01:48:05.000Z",
+   "derivedAt": "2026-10-26T01:57:11.263Z",
+   "deriveMs": 1921,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 144,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 4,
+     "nass": 4,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 34,
+     "nebel": 0,
+     "gischt": 122,
+     "sonne": 0,
+     "quer": 26,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260145",
+     "fc": null,
+     "rv": "2610260150",
+     "rvMode": "max",
+     "konrad": "20261026T015000",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1646225,
+    "ms": 1404
+   }
+  },
+  "2610260200": {
+   "slot": "2610260200",
+   "publish": true,
+   "points": 1496,
+   "values": 11549,
+   "rejected": 369,
+   "share": 0.032,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T02:03:04.000Z",
+   "derivedAt": "2026-10-26T02:12:02.925Z",
+   "deriveMs": 1902,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 129,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 4,
+     "nass": 4,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 21,
+     "nebel": 0,
+     "gischt": 115,
+     "sonne": 0,
+     "quer": 18,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260200",
+     "fc": null,
+     "rv": "2610260205",
+     "rvMode": "max",
+     "konrad": "20261026T020500",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1645092,
+    "ms": 1390
+   }
+  },
+  "2610260215": {
+   "slot": "2610260215",
+   "publish": true,
+   "points": 1492,
+   "values": 11546,
+   "rejected": 366,
+   "share": 0.0317,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T02:18:05.000Z",
+   "derivedAt": "2026-10-26T02:27:13.334Z",
+   "deriveMs": 1900,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 149,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 4,
+     "nass": 3,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 26,
+     "nebel": 0,
+     "gischt": 135,
+     "sonne": 0,
+     "quer": 17,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260215",
+     "fc": null,
+     "rv": "2610260220",
+     "rvMode": "max",
+     "konrad": "20261026T022000",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1645274,
+    "ms": 1381
+   }
+  },
+  "2610260230": {
+   "slot": "2610260230",
+   "publish": true,
+   "points": 1494,
+   "values": 11524,
+   "rejected": 366,
+   "share": 0.0318,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T02:33:47.000Z",
+   "derivedAt": "2026-10-26T02:42:12.591Z",
+   "deriveMs": 1885,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 147,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 2,
+     "nass": 2,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 18,
+     "nebel": 0,
+     "gischt": 130,
+     "sonne": 0,
+     "quer": 16,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260230",
+     "fc": null,
+     "rv": "2610260235",
+     "rvMode": "max",
+     "konrad": "20261026T023500",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1644464,
+    "ms": 1387
+   }
+  },
+  "2610260245": {
+   "slot": "2610260245",
+   "publish": true,
+   "points": 1489,
+   "values": 11508,
+   "rejected": 374,
+   "share": 0.0325,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T02:48:42.000Z",
+   "derivedAt": "2026-10-26T02:57:02.806Z",
+   "deriveMs": 1882,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 133,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 2,
+     "nass": 4,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 24,
+     "nebel": 0,
+     "gischt": 119,
+     "sonne": 0,
+     "quer": 17,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260245",
+     "fc": null,
+     "rv": "2610260250",
+     "rvMode": "max",
+     "konrad": "20261026T025000",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1644686,
+    "ms": 1379
+   }
+  },
+  "2610260300": {
+   "slot": "2610260300",
+   "publish": true,
+   "points": 1494,
+   "values": 11532,
+   "rejected": 364,
+   "share": 0.0316,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T03:03:47.000Z",
+   "derivedAt": "2026-10-26T03:12:13.042Z",
+   "deriveMs": 1947,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 134,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 2,
+     "nass": 2,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 28,
+     "nebel": 0,
+     "gischt": 113,
+     "sonne": 0,
+     "quer": 24,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260300",
+     "fc": null,
+     "rv": "2610260305",
+     "rvMode": "max",
+     "konrad": "20261026T030500",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1645164,
+    "ms": 1399
+   }
+  },
+  "2610260315": {
+   "slot": "2610260315",
+   "publish": true,
+   "points": 1488,
+   "values": 11486,
+   "rejected": 377,
+   "share": 0.0328,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T03:19:28.000Z",
+   "derivedAt": "2026-10-26T03:27:07.494Z",
+   "deriveMs": 1910,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 106,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 2,
+     "nass": 3,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 18,
+     "nebel": 0,
+     "gischt": 92,
+     "sonne": 0,
+     "quer": 13,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260315",
+     "fc": null,
+     "rv": "2610260320",
+     "rvMode": "max",
+     "konrad": "20261026T032000",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1643813,
+    "ms": 1386
+   }
+  },
+  "2610260330": {
+   "slot": "2610260330",
+   "publish": true,
+   "points": 1494,
+   "values": 11524,
+   "rejected": 373,
+   "share": 0.0324,
+   "groups": 22,
+   "dwdLastAt": "2026-10-26T03:33:07.000Z",
+   "derivedAt": "2026-10-26T03:42:08.706Z",
+   "deriveMs": 1933,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 100,
+    "unknown": 1731,
+    "byHazard": {
+     "reif": 4,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 14,
+     "nebel": 0,
+     "gischt": 89,
+     "sonne": 0,
+     "quer": 13,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [
+     "fc"
+    ],
+    "inputs": {
+     "obs": "2610260330",
+     "fc": null,
+     "rv": "2610260335",
+     "rvMode": "max",
+     "konrad": "20261026T033500",
+     "runs": "2026102600",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 1643537,
+    "ms": 1404
+   }
   }
  }
 }

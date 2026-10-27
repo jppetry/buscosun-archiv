@@ -1,0 +1,215 @@
+{
+ "schema": 1,
+ "product": "road-archive-slots",
+ "day": "2026-10-27",
+ "slots": {
+  "2610270000": {
+   "slot": "2610270000",
+   "publish": true,
+   "points": 1499,
+   "values": 11368,
+   "rejected": 293,
+   "share": 0.0258,
+   "groups": 22,
+   "dwdLastAt": "2026-10-27T00:03:03.000Z",
+   "derivedAt": "2026-10-27T00:12:06.169Z",
+   "deriveMs": 2434,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 240,
+    "unknown": 5,
+    "byHazard": {
+     "reif": 0,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 7,
+     "nebel": 205,
+     "gischt": 13,
+     "sonne": 19,
+     "quer": 7,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 2
+    },
+    "missing": [],
+    "inputs": {
+     "obs": "2610270000",
+     "fc": {
+      "run": "2610262321",
+      "fusion": "buscosun Fusion 13"
+     },
+     "rv": "2610270005",
+     "rvMode": "max",
+     "konrad": "20261027T000500",
+     "runs": "2026102621",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 51422,
+    "ms": 1760
+   }
+  },
+  "2610270015": {
+   "slot": "2610270015",
+   "publish": true,
+   "points": 1493,
+   "values": 11311,
+   "rejected": 278,
+   "share": 0.0246,
+   "groups": 22,
+   "dwdLastAt": "2026-10-27T00:18:03.000Z",
+   "derivedAt": "2026-10-27T00:27:03.279Z",
+   "deriveMs": 2406,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 262,
+    "unknown": 5,
+    "byHazard": {
+     "reif": 0,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 12,
+     "nebel": 205,
+     "gischt": 18,
+     "sonne": 46,
+     "quer": 8,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 2
+    },
+    "missing": [],
+    "inputs": {
+     "obs": "2610270015",
+     "fc": {
+      "run": "2610262321",
+      "fusion": "buscosun Fusion 13"
+     },
+     "rv": "2610270020",
+     "rvMode": "max",
+     "konrad": "20261027T002000",
+     "runs": "2026102621",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 56325,
+    "ms": 1738
+   }
+  },
+  "2610270030": {
+   "slot": "2610270030",
+   "publish": true,
+   "points": 1500,
+   "values": 11211,
+   "rejected": 290,
+   "share": 0.0259,
+   "groups": 22,
+   "dwdLastAt": "2026-10-27T00:33:05.000Z",
+   "derivedAt": "2026-10-27T00:42:03.544Z",
+   "deriveMs": 2234,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 274,
+    "unknown": 5,
+    "byHazard": {
+     "reif": 0,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 14,
+     "nebel": 199,
+     "gischt": 20,
+     "sonne": 65,
+     "quer": 6,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [],
+    "inputs": {
+     "obs": "2610270030",
+     "fc": {
+      "run": "2610262321",
+      "fusion": "buscosun Fusion 13"
+     },
+     "rv": "2610270035",
+     "rvMode": "max",
+     "konrad": "20261027T003500",
+     "runs": "2026102621",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 57650,
+    "ms": 1736
+   }
+  },
+  "2610270045": {
+   "slot": "2610270045",
+   "publish": true,
+   "points": 1498,
+   "values": 11224,
+   "rejected": 296,
+   "share": 0.0264,
+   "groups": 22,
+   "dwdLastAt": "2026-10-27T00:48:14.000Z",
+   "derivedAt": "2026-10-27T00:57:04.257Z",
+   "deriveMs": 2259,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 273,
+    "unknown": 5,
+    "byHazard": {
+     "reif": 0,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 13,
+     "nebel": 199,
+     "gischt": 19,
+     "sonne": 65,
+     "quer": 8,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 0
+    },
+    "missing": [],
+    "inputs": {
+     "obs": "2610270045",
+     "fc": {
+      "run": "2610262321",
+      "fusion": "buscosun Fusion 13"
+     },
+     "rv": "2610270050",
+     "rvMode": "max",
+     "konrad": "20261027T005000",
+     "runs": "2026102621",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 57765,
+    "ms": 1753
+   }
+  }
+ }
+}

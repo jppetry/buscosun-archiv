@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "product": "road-archive-slots",
+ "day": "2026-10-28",
+ "slots": {
+  "2610280000": {
+   "slot": "2610280000",
+   "publish": true,
+   "points": 1501,
+   "values": 11758,
+   "rejected": 301,
+   "share": 0.0256,
+   "groups": 22,
+   "dwdLastAt": "2026-10-28T00:03:04.000Z",
+   "derivedAt": "2026-10-28T00:12:06.921Z",
+   "deriveMs": 1612,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1120,
+    "unknown": 6,
+    "byHazard": {
+     "reif": 0,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 37,
+     "nebel": 1040,
+     "gischt": 173,
+     "sonne": 0,
+     "quer": 0,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 1
+    },
+    "missing": [],
+    "inputs": {
+     "obs": "2610280000",
+     "fc": {
+      "run": "2610272317",
+      "fusion": "buscosun Fusion 13"
+     },
+     "rv": "2610280005",
+     "rvMode": "max",
+     "konrad": "20261028T000500",
+     "runs": "2026102721",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 231967,
+    "ms": 1162
+   }
+  },
+  "2610280015": {
+   "slot": "2610280015",
+   "publish": true,
+   "points": 1499,
+   "values": 11757,
+   "rejected": 307,
+   "share": 0.0261,
+   "groups": 22,
+   "dwdLastAt": "2026-10-28T00:18:05.000Z",
+   "derivedAt": "2026-10-28T00:27:12.133Z",
+   "deriveMs": 1543,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1146,
+    "unknown": 7,
+    "byHazard": {
+     "reif": 0,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 42,
+     "nebel": 1040,
+     "gischt": 185,
+     "sonne": 65,
+     "quer": 1,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 0,
+     "sturz": 1
+    },
+    "missing": [],
+    "inputs": {
+     "obs": "2610280015",
+     "fc": {
+      "run": "2610272317",
+      "fusion": "buscosun Fusion 13"
+     },
+     "rv": "2610280020",
+     "rvMode": "max",
+     "konrad": "20261028T002000",
+     "runs": "2026102721",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 242385,
+    "ms": 1097
+   }
+  },
+  "2610280030": {
+   "slot": "2610280030",
+   "publish": true,
+   "points": 1500,
+   "values": 11727,
+   "rejected": 301,
+   "share": 0.0257,
+   "groups": 22,
+   "dwdLastAt": "2026-10-28T00:33:17.000Z",
+   "derivedAt": "2026-10-28T00:42:06.219Z",
+   "deriveMs": 1368,
+   "hz": {
+    "ok": true,
+    "publish": true,
+    "reasons": [],
+    "withLevel": 1151,
+    "unknown": 6,
+    "byHazard": {
+     "reif": 3,
+     "nass": 0,
+     "glatteis": 0,
+     "schnee": 0,
+     "aqua": 68,
+     "nebel": 993,
+     "gischt": 209,
+     "sonne": 96,
+     "quer": 1,
+     "baum": 0,
+     "staub": 0,
+     "gewitter": 0,
+     "hagel": 0,
+     "blowup": 0,
+     "frost1": 3,
+     "sturz": 3
+    },
+    "missing": [],
+    "inputs": {
+     "obs": "2610280030",
+     "fc": {
+      "run": "2610272317",
+      "fusion": "buscosun Fusion 13"
+     },
+     "rv": "2610280035",
+     "rvMode": "max",
+     "konrad": "20261028T003500",
+     "runs": "2026102721",
+     "segments": "2026-10-14T08:51:20.507Z"
+    },
+    "bytes": 244720,
+    "ms": 1052
+   }
+  }
+ }
+}

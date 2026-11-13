@@ -1,0 +1,19 @@
+{
+  "schema": 5,
+  "kind": "punktarchiv/day",
+  "day": "2026-11-13",
+  "updatedAt": "2026-11-13T23:59:44.112Z",
+  "slots": [
+    {
+      "file": "2315.json.gz",
+      "bytes": 65569619,
+      "sha256": "869251e7ba8dff6944570926776ec43b9b2db815d214d1b2ee4bb9ffca6105f5",
+      "conflict": false,
+      "slotAt": "2026-11-13T23:15:00.000Z",
+      "points": 2069,
+      "createdAt": "2026-11-13T23:15:50.836Z",
+      "codeHash": "69167bc",
+      "indexCommit": "f8aa9424982083377822b5a64ccf47acab6b86aa"
+    }
+  ]
+}

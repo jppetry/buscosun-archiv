@@ -687,9 +687,14 @@
     "2026111812"
    ],
    "poiStations": 24,
-   "texts": 22,
+   "texts": 25,
    "wtempStations": 18
+  },
+  "2026-11-19": {
+   "spots": [],
+   "poiStations": 24,
+   "texts": 3
   }
  },
- "updatedAt": "2026-11-18T18:51:26.518Z"
+ "updatedAt": "2026-11-19T00:51:01.566Z"
 }
